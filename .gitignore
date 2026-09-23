@@ -1,0 +1,16 @@
+# Secrets
+secrets/*.txt
+
+# Persistent data
+data/mongodb/
+data/redis/
+
+# Node.js
+api/node_modules/
+web/node_modules/
+
+# Build output
+web/dist/
+
+# Logs
+*.log
