@@ -1,5 +1,6 @@
-node_modules
-npm-debug.log
-.git
-.gitignore
-Dockerfile*
+tests/
+__pycache__/
+*.pyc
+.pytest_cache/
+requirements-dev.txt
+pytest.ini
